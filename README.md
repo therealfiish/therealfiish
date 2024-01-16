@@ -1,15 +1,15 @@
-### krrish's github
----
-## who am i?
+### krrish's github 🐟
+
+# who am i?
 - junior at troy high school, troy, mi
 - web admin for Michigan Youth Cricket Academy 🏏
 - digital media lead 🖼️ and programming assistant lead 🧑‍💻 of my high school robotics team, the FRC 226 Hammerheads
 - avid programmer 💻, photographer 📸, and gamer 👾
-## what can i do?
+# what can i do?
 - experienced in front end web development 🕸️
 - AWS practioner certified 👩‍💼
 - c++/java/python/html coder 🖥️
-## working on?
+# working on?
 - building a time management app with machine learning integration to better optimize time for different subjects ⌚
 - planning to create a multipurpose iot device using a custom pcb 🚥
 ## where can you reach me?
