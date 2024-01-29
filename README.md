@@ -11,7 +11,7 @@
 - c++/java/python/html coder 🖥️
 # working on?
 - building a time management app with machine learning integration to better optimize time for different subjects ⌚
-- planning to create a multipurpose iot device using a custom pcb 🚥
+- portfolio website 🛜
 ## where can you reach me?
 - krrishkishorekumar@gmail.com (main) ✉️
 - 248-688-1538 📞
