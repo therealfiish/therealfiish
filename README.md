@@ -8,7 +8,7 @@
 # what can i do?
 - experienced in front end web development 🕸️
 - AWS practioner certified 👩‍💼
-- c++/java/python/html coder 🖥️
+- fluent in java, python, c++, html, and css 🖥️
 # working on?
 - building a time management app with machine learning integration to better optimize time for different subjects ⌚
 - portfolio website 🛜
