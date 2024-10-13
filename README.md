@@ -4,7 +4,7 @@
 - junior at troy high school, troy, mi
 - web admin for Michigan Youth Cricket Academy 🏏
 - digital media lead 🖼️ and programming assistant lead 🧑‍💻 of my high school robotics team, the FRC 226 Hammerheads
-- avid programmer 💻, photographer 📸, competitive programmer and gamer 👾
+- competitive programmer 💻, photographer 📸, and gamer 👾
 # what can i do?
 - experienced in front end web development 🕸️
 - AWS cloud and machine learning practioner certified 👩‍💼
