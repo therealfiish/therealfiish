@@ -7,7 +7,7 @@
 - avid programmer 💻, photographer 📸, competitive programmer and gamer 👾
 # what can i do?
 - experienced in front end web development 🕸️
-- AWS practioner certified 👩‍💼
+- AWS cloud and machine learning practioner certified 👩‍💼
 - fluent in java, python, c++, html, and css 🖥️
 # working on?
 - building a time management app with machine learning integration to better optimize time for different subjects ⌚
