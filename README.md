@@ -3,7 +3,7 @@
 # who am i?
 - junior at troy high school, troy, mi
 - web admin for Michigan Youth Cricket Academy 🏏
-- digital media lead 🖼️ and programming assistant lead 🧑‍💻 of my high school robotics team, the FRC 226 Hammerheads
+- digital media lead 🖼️ and website coordinator 🧑‍💻 of my high school robotics team, the FRC 226 Hammerheads
 - competitive programmer 💻, photographer 📸, and gamer 👾
 # what can i do?
 - experienced in front end web development 🕸️
