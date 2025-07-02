@@ -12,4 +12,4 @@
 
 ## where can you reach me?
 - krrishkishorekumar@gmail.com ✉️
-- [LinkedIn](https://www.linkedin.com/in/krrishkishorekumar/) 🌐
+- [LinkedIn](https://www.linkedin.com/in/krrishk/) 🌐
