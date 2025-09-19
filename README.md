@@ -1,7 +1,7 @@
 ### krrish's github 🐟
 
 # who am i?
-- freshman pursuing a BSE in Computer Science @ University of Michigan
+- freshman pursuing a BSE degree in Computer Science @ University of Michigan
 - AWS Certified Cloud Practitioner & GenAI practitioner
 - passionate about AI, software engineering, and all things tech
 
